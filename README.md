@@ -1,9 +1,5 @@
 # Simulated biffucation
 
-## Installation
-Clone the repository:
-
-`git clone https://gitlab-student.centralesupelec.fr/chahine.nejma/bifurcation-simule.git`
 
 Install the required dependencies (preferably in a virtual environment):
 
