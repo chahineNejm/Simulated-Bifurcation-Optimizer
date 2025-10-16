@@ -1,0 +1,9 @@
+*.ipynb
+*.pyc
+*.npz
+*.icloud
+*.DS_Store
+*.prof
+computing_results/
+graph_visualisation/
+__pycache__/
